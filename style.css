@@ -162,7 +162,10 @@ span.grid-info {
 
 @media screen and (max-width: 800px) {
   .container {
-    padding: 2rem 0;
+    padding: 1rem 1rem;
+  }
+  .grid {
+    max-width: 90vh;
   }
 
   .grid-group {
